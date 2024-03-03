@@ -1,0 +1,5 @@
+# config/_default/taxonomies.toml
+
+topic = "topics"
+category = 'categories'
+tag = 'tags'
