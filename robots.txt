@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iorest.github.io/sitemap.xml
