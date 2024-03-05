@@ -15,8 +15,8 @@ title = "Iorest Blog"
 [params.author]
   name = "Iorest"
   image = "img/author.jpeg"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  headline = "此心安处是吾乡"
+  bio = "追求简单，坚持纯粹"
    links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
